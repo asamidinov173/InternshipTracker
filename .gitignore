@@ -1,0 +1,6 @@
+# OS files
+.DS_Store
+
+# Old HTML files (we're using React now)
+index.html
+styles.css
